@@ -1,1 +1,0 @@
-# NovaStore_DB_SQL
